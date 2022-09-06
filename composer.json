@@ -1,0 +1,19 @@
+{
+  "name": "icstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/icstore",
+  "keywords": ["icstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/icstore/init-composer",
+    "issues": "https://github.com/icstore/init-composer/issues",
+    "docs": "https://github.com/icstore/init-composer/wiki",
+    "forum": "https://github.com/icstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
